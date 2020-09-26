@@ -1,0 +1,17 @@
+wishlist
+Add to wishlist" means you like the product and may consider buying it sometime later but not right now.
+ When you add a product to the cart, it means that you are serious about buying the product and that you are just a few steps away 
+from making the payment.
+
+problems
+wiahlist
+cart login/signin
+contact (google map)flow map includation
+
+//lack items
+favorites list creation
+short video
+AR
+tool allowing to comment and share
+rating and sharing info abt POI
+google maps
